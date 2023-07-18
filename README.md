@@ -1,7 +1,7 @@
 ## Hey, I'm Ellie 👋
 
 - 📫 How to reach me: Email - elliekoooo@gmail.com
-- 🏚 You can see all I studying in here - https://ellie_log.github.io/
+- 🏚 You can see all I studying in here - https://elliekoooo.github.io/
 
 <!-- 
 <a href="github.com/elliekoooo">
