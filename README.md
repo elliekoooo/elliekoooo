@@ -1,6 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=Hey,+I+am+Ellie+👩🏻‍💻;Turning+Designs+Into+Reality+😃;Always+Learning+New+Technologies+🔥" />
 </h1>
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
@@ -12,7 +14,8 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
+<br/>
+<br/>
 
 ### ✨ **Who Am I?**
  🚀 Passionate about **Front-End Development & UI/UX** <br/>
@@ -21,14 +24,17 @@
  🔥 Love creating **beautiful and accessible web experiences** <br/>
  💡 Passionate about **clean code and performance optimization** <br/>
 
----
+<br/>
+<br/>
+
 
 ### 🎨 **Tech Stack & Tools**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,vscode,git,github" />
 </p>
 
----
+<br/>
+<br/>
 
 ### 🚀 **Toy Projects**
 
@@ -42,18 +48,21 @@ Here are some of my toy projects from frontend mentor...
 
 [🔗 See all my Frontend Mentor projects](https://www.frontendmentor.io/profile/elliekoooo)
 
----
+<br/>
+<br/>
+
 
 ### 📊 **GitHub Stats**
-<p align="center">
+<p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliekoooo&layout=compact&hide_border=true&theme=tokyonight" height="160" />
 </p>
 
----
+<br/>
+<br/>
 
 ### 🌐 **Find Me Here**
-<p align="center">
-  <a href="https://elliekoooo.github.io/#projects" target="blank">
+<p align="left">
+  <a href="https://elliekoooo.github.io/#projects" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
    <a href="https://medium.com/@elliekoooo">
