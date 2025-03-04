@@ -36,6 +36,18 @@
 <br/>
 <br/>
 
+### 🌐 **Find Me Here**
+<p align="left">
+  <a href="https://elliekoooo.github.io/#projects" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+   <a href="https://medium.com/@elliekoooo" target="blank">
+    <img src="https://img.shields.io/badge/Medium-Read%20Articles-%23292929.svg?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+<br/>
 ### 🚀 **Toy Projects**
 
 Here are some of my toy projects from frontend mentor...
@@ -60,12 +72,3 @@ Here are some of my toy projects from frontend mentor...
 <br/>
 <br/>
 
-### 🌐 **Find Me Here**
-<p align="left">
-  <a href="https://elliekoooo.github.io/#projects" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-   <a href="https://medium.com/@elliekoooo">
-    <img src="https://img.shields.io/badge/Medium-Read%20Articles-%23292929.svg?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
