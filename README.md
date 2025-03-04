@@ -15,7 +15,6 @@
 </p>
 
 <br/>
-<br/>
 
 ### ✨ **Who Am I?**
  🚀 Passionate about **Front-End Development & UI/UX** <br/>
@@ -25,7 +24,6 @@
  💡 Passionate about **clean code and performance optimization** <br/>
 
 <br/>
-<br/>
 
 
 ### 🎨 **Tech Stack & Tools**
@@ -33,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,vscode,git,github" />
 </p>
 
-<br/>
 <br/>
 
 ### 🌐 **Find Me Here**
@@ -47,7 +44,6 @@
 </p>
 
 <br/>
-<br/>
 ### 🚀 **Toy Projects**
 
 Here are some of my toy projects from frontend mentor...
@@ -60,7 +56,6 @@ Here are some of my toy projects from frontend mentor...
 
 [🔗 See all my Frontend Mentor projects](https://www.frontendmentor.io/profile/elliekoooo)
 
-<br/>
 <br/>
 
 
